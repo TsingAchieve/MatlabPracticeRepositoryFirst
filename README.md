@@ -95,3 +95,44 @@ Cite an instance:
 14、size()   // 矩阵的规格（行列）  
 15、length() // 矩阵的长度  
 16、find()   // 找到矩阵中等于某个值的位置  
+
+————————————————————————————————————  
+Date:2021-04-14 20:48:53  
+Lesson:P3  
+————————————————————————————————————  
+************************************************************************  
+#Matlab Script（Matlab脚本）#  
+Notes:  
+    ①、fx中可以查找我们想用的函数  
+    ②、注释为'%'  
+    ③、'%%'之间表示section（章节），在家debug的时候很有用  
+    ④、点左侧出现一个圈，表示的是程序运行到这一行暂停  
+************************************************************************  
+#Script Flow#  
+Notes:程序从上至下执行
+Cite an instance:  
+    if、elseif、else、for、switch、case、otherwise、try、catch、while、break、  
+    continue、end、pause、return
+************************************************************************  
+#Relational Operators（比较操作）#
+Cite an instance:  
+    <、<=、>、>=、==、~=（不等于）、&&、||
+************************************************************************  
+#if elseif else#  
+Note:所有的程序结构必须得以end结束。  
+Cite an instance:  
+    if conditionOne  
+        programming  
+    elseif conditionTwo  
+        programming  
+    else  
+        programming  
+    end  
+
+
+
+
+
+
+
+
